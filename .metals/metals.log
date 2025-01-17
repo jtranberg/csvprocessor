@@ -43,3 +43,139 @@ WARNING: Unmatched cancel notification for request id 2
 2025.01.17 14:16:43 INFO  time: compiled root in 0.58s
 Jan 17, 2025 2:17:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+Jan 17, 2025 2:18:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 76
+2025.01.17 14:19:40 INFO  no build target found for C:\Users\Me\Desktop\csvprocessor\csvprocessor\build.sbt. Using presentation compiler with project's scala-library version: 3.6.2
+2025.01.17 14:19:40 INFO  no build target found for C:\Users\Me\Desktop\csvprocessor\csvprocessor\build.sbt. Using presentation compiler with project's scala-library version: 3.6.2
+2025.01.17 14:19:56 INFO  no build target found for C:\Users\Me\Desktop\csvprocessor\csvprocessor\build.sbt. Using presentation compiler with project's scala-library version: 3.6.2
+2025.01.17 14:19:56 INFO  no build target found for C:\Users\Me\Desktop\csvprocessor\csvprocessor\build.sbt. Using presentation compiler with project's scala-library version: 3.6.2
+2025.01.17 14:19:57 INFO  no build target found for C:\Users\Me\Desktop\csvprocessor\csvprocessor\build.sbt. Using presentation compiler with project's scala-library version: 3.6.2
+2025.01.17 14:19:58 INFO  no build target found for C:\Users\Me\Desktop\csvprocessor\csvprocessor\build.sbt. Using presentation compiler with project's scala-library version: 3.6.2
+2025.01.17 14:19:57 INFO  no build target found for C:\Users\Me\Desktop\csvprocessor\csvprocessor\build.sbt. Using presentation compiler with project's scala-library version: 3.6.2
+2025.01.17 14:20:00 INFO  no build target found for C:\Users\Me\Desktop\csvprocessor\csvprocessor\build.sbt. Using presentation compiler with project's scala-library version: 3.6.2
+2025.01.17 14:20:01 INFO  no build target found for C:\Users\Me\Desktop\csvprocessor\csvprocessor\build.sbt. Using presentation compiler with project's scala-library version: 3.6.2
+2025.01.17 14:20:00 INFO  no build target found for C:\Users\Me\Desktop\csvprocessor\csvprocessor\build.sbt. Using presentation compiler with project's scala-library version: 3.6.2
+2025.01.17 14:20:25 INFO  no build target found for C:\Users\Me\Desktop\csvprocessor\csvprocessor\build.sbt. Using presentation compiler with project's scala-library version: 3.6.2
+2025.01.17 14:20:26 INFO  no build target found for C:\Users\Me\Desktop\csvprocessor\csvprocessor\build.sbt. Using presentation compiler with project's scala-library version: 3.6.2
+2025.01.17 14:20:27 WARN  no build target for: C:\Users\Me\Desktop\csvprocessor\csvprocessor\build.sbt
+2025.01.17 14:20:30 INFO  running 'C:\Program Files\Java\jdk-17\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Me\AppData\Local\Temp\metals11650948647592748670\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.01.17 14:20:31 INFO  [info] welcome to sbt 1.10.7 (Oracle Corporation Java 17.0.11)
+2025.01.17 14:20:31 INFO  [info] loading settings for project csvprocessor-build-build from metals.sbt...
+2025.01.17 14:20:32 INFO  [info] loading project definition from C:\Users\Me\Desktop\csvprocessor\csvprocessor\project\project
+2025.01.17 14:20:32 INFO  [info] loading settings for project csvprocessor-build from metals.sbt...
+2025.01.17 14:20:32 INFO  [info] loading project definition from C:\Users\Me\Desktop\csvprocessor\csvprocessor\project
+2025.01.17 14:20:35 INFO  [success] Generated .bloop\csvprocessor-build.json
+2025.01.17 14:20:35 INFO  [success] Total time: 2 s, completed Jan 17, 2025, 2:20:35 PM
+2025.01.17 14:20:37 INFO  [info] loading settings for project root from build.sbt...
+2025.01.17 14:20:37 INFO  [info] set current project to CSVProcessor (in build file:/C:/Users/Me/Desktop/csvprocessor/csvprocessor/)
+2025.01.17 14:20:37 INFO  [success] Generated .bloop\root.json
+2025.01.17 14:20:37 INFO  [success] Generated .bloop\root-test.json
+2025.01.17 14:20:37 INFO  [success] Total time: 1 s, completed Jan 17, 2025, 2:20:38 PM
+2025.01.17 14:20:38 INFO  time: ran 'sbt bloopInstall' in 7.95s
+2025.01.17 14:20:38 INFO  Disconnecting from Bloop session...
+2025.01.17 14:20:38 INFO  Shut down connection with build server.
+2025.01.17 14:20:38 INFO  Attempting to connect to the build server...
+2025.01.17 14:20:38 INFO  Found a Bloop server running
+2025.01.17 14:20:38 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Me\Desktop\csvprocessor\.metals\bsp.trace.json or C:\Users\Me\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.01.17 14:20:38 INFO  time: Connected to build server in 0.37s
+2025.01.17 14:20:38 INFO  Connected to Build server: Bloop v2.0.6
+2025.01.17 14:20:38 INFO  running doctor check
+2025.01.17 14:20:38 INFO  java targets: root, root-test
+2025.01.17 14:20:38 INFO  time: indexed workspace in 0.9s
+2025.01.17 14:20:39 WARN  no build target for: C:\Users\Me\Desktop\csvprocessor\csvprocessor\build.sbt
+2025.01.17 14:20:39 INFO  compiling root (2 scala sources)
+2025.01.17 14:20:39 INFO  time: compiled root in 0.66s
+2025.01.17 14:20:39 INFO  compiling root-test (1 scala source)
+2025.01.17 14:20:40 INFO  time: compiled root-test in 0.4s
+Jan 17, 2025 2:20:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 125
+Jan 17, 2025 2:20:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 126
+Jan 17, 2025 2:22:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 140
+2025.01.17 14:22:20 ERROR scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$: There is nothing to run or test in the current file.
+	at scala.meta.internal.metals.debug.DiscoveryFailures$NoRunOptionException$.<clinit>(DiscoveryFailures.scala:62)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$runOrTestFile$2(DebugDiscovery.scala:314)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugDiscovery.runOrTestFile(DebugDiscovery.scala:256)
+	at scala.meta.internal.metals.debug.DebugDiscovery.$anonfun$debugDiscovery$1(DebugDiscovery.scala:176)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:842)
+
+2025.01.17 14:26:31 INFO  running 'C:\Program Files\Java\jdk-17\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Me\AppData\Local\Temp\metals7296736116620405174\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.01.17 14:26:32 INFO  [info] welcome to sbt 1.10.7 (Oracle Corporation Java 17.0.11)
+2025.01.17 14:26:32 INFO  [info] loading settings for project csvprocessor-build-build from metals.sbt...
+2025.01.17 14:26:34 INFO  [info] loading project definition from C:\Users\Me\Desktop\csvprocessor\csvprocessor\project\project
+2025.01.17 14:26:34 INFO  [info] loading settings for project csvprocessor-build from metals.sbt...
+2025.01.17 14:26:34 INFO  [info] loading project definition from C:\Users\Me\Desktop\csvprocessor\csvprocessor\project
+2025.01.17 14:26:37 INFO  [success] Generated .bloop\csvprocessor-build.json
+2025.01.17 14:26:37 INFO  [success] Total time: 2 s, completed Jan 17, 2025, 2:26:37 PM
+2025.01.17 14:26:37 INFO  [info] loading settings for project root from build.sbt...
+2025.01.17 14:26:37 INFO  [info] set current project to CSVProcessor (in build file:/C:/Users/Me/Desktop/csvprocessor/csvprocessor/)
+2025.01.17 14:26:37 INFO  [success] Generated .bloop\root.json
+2025.01.17 14:26:37 INFO  [success] Generated .bloop\root-test.json
+2025.01.17 14:26:37 INFO  [success] Total time: 0 s, completed Jan 17, 2025, 2:26:37 PM
+2025.01.17 14:26:38 INFO  time: ran 'sbt bloopInstall' in 6.53s
+2025.01.17 14:26:38 INFO  Disconnecting from Bloop session...
+2025.01.17 14:26:38 INFO  Shut down connection with build server.
+2025.01.17 14:26:38 INFO  Attempting to connect to the build server...
+2025.01.17 14:26:38 INFO  Found a Bloop server running
+2025.01.17 14:26:38 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Me\Desktop\csvprocessor\.metals\bsp.trace.json or C:\Users\Me\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.01.17 14:26:38 INFO  time: Connected to build server in 0.38s
+2025.01.17 14:26:38 INFO  Connected to Build server: Bloop v2.0.6
+2025.01.17 14:26:38 INFO  running doctor check
+2025.01.17 14:26:38 INFO  java targets: root, root-test
+2025.01.17 14:26:38 INFO  time: indexed workspace in 0.82s
+2025.01.17 14:26:39 WARN  no build target for: C:\Users\Me\Desktop\csvprocessor\csvprocessor\build.sbt
+2025.01.17 14:26:56 INFO  running 'C:\Program Files\Java\jdk-17\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Me\AppData\Local\Temp\metals1584284593663520519\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.01.17 14:26:58 INFO  [info] welcome to sbt 1.10.7 (Oracle Corporation Java 17.0.11)
+2025.01.17 14:26:58 INFO  [info] loading settings for project csvprocessor-build-build from metals.sbt...
+2025.01.17 14:26:59 INFO  [info] loading project definition from C:\Users\Me\Desktop\csvprocessor\csvprocessor\project\project
+2025.01.17 14:26:59 INFO  [info] loading settings for project csvprocessor-build from metals.sbt...
+2025.01.17 14:26:59 INFO  [info] loading project definition from C:\Users\Me\Desktop\csvprocessor\csvprocessor\project
+2025.01.17 14:27:01 INFO  [success] Generated .bloop\csvprocessor-build.json
+2025.01.17 14:27:01 INFO  [success] Total time: 2 s, completed Jan 17, 2025, 2:27:01 PM
+2025.01.17 14:27:01 INFO  [info] loading settings for project root from build.sbt...
+2025.01.17 14:27:01 INFO  [info] set current project to CSVProcessor (in build file:/C:/Users/Me/Desktop/csvprocessor/csvprocessor/)
+2025.01.17 14:27:01 INFO  [success] Generated .bloop\root.json
+2025.01.17 14:27:01 INFO  [success] Generated .bloop\root-test.json
+2025.01.17 14:27:01 INFO  [success] Total time: 0 s, completed Jan 17, 2025, 2:27:02 PM
+2025.01.17 14:27:02 INFO  time: ran 'sbt bloopInstall' in 5.78s
+2025.01.17 14:27:02 INFO  Disconnecting from Bloop session...
+2025.01.17 14:27:02 INFO  Shut down connection with build server.
+2025.01.17 14:27:02 INFO  Attempting to connect to the build server...
+2025.01.17 14:27:02 INFO  Found a Bloop server running
+2025.01.17 14:27:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Me\Desktop\csvprocessor\.metals\bsp.trace.json or C:\Users\Me\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.01.17 14:27:02 INFO  time: Connected to build server in 0.41s
+2025.01.17 14:27:02 INFO  Connected to Build server: Bloop v2.0.6
+2025.01.17 14:27:02 INFO  running doctor check
+2025.01.17 14:27:02 INFO  java targets: root, root-test
+2025.01.17 14:27:03 INFO  time: indexed workspace in 0.7s
+2025.01.17 14:27:03 WARN  no build target for: C:\Users\Me\Desktop\csvprocessor\csvprocessor\build.sbt
+2025.01.17 14:27:23 INFO  running 'C:\Program Files\Java\jdk-17\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Me\AppData\Local\Temp\metals14728851180707025075\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.01.17 14:27:24 INFO  [info] welcome to sbt 1.10.7 (Oracle Corporation Java 17.0.11)
+2025.01.17 14:27:24 INFO  [info] loading settings for project csvprocessor-build-build from metals.sbt...
+2025.01.17 14:27:25 INFO  [info] loading project definition from C:\Users\Me\Desktop\csvprocessor\csvprocessor\project\project
+2025.01.17 14:27:25 INFO  [info] loading settings for project csvprocessor-build from metals.sbt...
+2025.01.17 14:27:25 INFO  [info] loading project definition from C:\Users\Me\Desktop\csvprocessor\csvprocessor\project
+2025.01.17 14:27:28 INFO  [success] Generated .bloop\csvprocessor-build.json
+2025.01.17 14:27:28 INFO  [success] Total time: 2 s, completed Jan 17, 2025, 2:27:28 PM
+2025.01.17 14:27:28 INFO  [info] loading settings for project root from build.sbt...
+2025.01.17 14:27:28 INFO  [info] set current project to CSVProcessor (in build file:/C:/Users/Me/Desktop/csvprocessor/csvprocessor/)
+2025.01.17 14:27:28 INFO  [success] Generated .bloop\root.json
+2025.01.17 14:27:28 INFO  [success] Generated .bloop\root-test.json
+2025.01.17 14:27:28 INFO  [success] Total time: 0 s, completed Jan 17, 2025, 2:27:29 PM
+2025.01.17 14:27:29 INFO  time: ran 'sbt bloopInstall' in 6.08s
+2025.01.17 14:27:29 INFO  Disconnecting from Bloop session...
+2025.01.17 14:27:29 INFO  Shut down connection with build server.
+2025.01.17 14:27:29 INFO  Attempting to connect to the build server...
+2025.01.17 14:27:29 INFO  Found a Bloop server running
+2025.01.17 14:27:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Me\Desktop\csvprocessor\.metals\bsp.trace.json or C:\Users\Me\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.01.17 14:27:29 INFO  time: Connected to build server in 0.38s
+2025.01.17 14:27:29 INFO  Connected to Build server: Bloop v2.0.6
+2025.01.17 14:27:29 INFO  running doctor check
+2025.01.17 14:27:29 INFO  java targets: root, root-test
+2025.01.17 14:27:29 INFO  time: indexed workspace in 0.74s
+2025.01.17 14:27:30 WARN  no build target for: C:\Users\Me\Desktop\csvprocessor\csvprocessor\build.sbt
